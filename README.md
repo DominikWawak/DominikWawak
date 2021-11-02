@@ -28,6 +28,7 @@
 
 [![BB19 VIdeo ](https://img.youtube.com/vi/W9i1spe7n34/0.jpg)](https://www.youtube.com/watch?v=W9i1spe7n34) [![Spotify](https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded400/1077036/1077036-1607080293089-30d0bbad37c7f.jpg)](https://open.spotify.com/episode/61tX0RWas4EQ5HqZOBf8DK)
 
+![bot gif](https://github.com/DominikWawak/dominikwawakprofile.github.io/blob/main/images/bot-test.gif)
 <br>
 
 
