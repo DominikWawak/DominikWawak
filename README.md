@@ -18,11 +18,10 @@
 
 
 <div>
-<>  <img src="https://github-readme-stats.vercel.app/api?
 
-<> username=DominikWawak&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DominikWawak&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)">
+
 ![bot gif](https://github.com/DominikWawak/dominikwawakprofile.github.io/blob/main/images/bot-test.gif)
 </div>
 <br>
