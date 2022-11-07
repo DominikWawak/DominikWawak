@@ -1,6 +1,6 @@
 ###  Dominik Wawak 
 
-## Apps, Internet of things and Robots. 🦾🤖
+## Apps, Internet of Things and Robots. 📱💡🤖
 
 ![](https://komarev.com/ghpvc/?username=DominikWawak&color=blueviolet) 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -20,7 +20,7 @@
 <div>
 
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DominikWawak&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)">
+<!-- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DominikWawak&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact)"> -->
 
 ![bot gif](https://github.com/DominikWawak/dominikwawakprofile.github.io/blob/main/images/bot-test.gif)
 </div>
